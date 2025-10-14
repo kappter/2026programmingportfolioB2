@@ -6,7 +6,7 @@
 
 Detailed description. 
 
-![RunningCalculator]()
+![RunningCalculator](https://github.com/kappter/2026programmingportfolioB2/blob/main/images/calc.png?raw=true)
 
 * [Windows]()
 * [MacOS]()
