@@ -6,9 +6,7 @@
 
 Detailed description
 
-![Calculator]([URL](https://github.com/kappter/2026programmingportfolioB2/blob/main/images/calc.png?raw=true))
-
-![Running Calculator](https://github.com/kappter/2026programmingportfolioB2/blob/main/images/calc1.png?raw=true)
+![calc](https://github.com/kappter/2026programmingportfolioB2/blob/main/images/calc.png?raw=true)
 
 * [Windows EXE]()
 * [MacOSX]()
